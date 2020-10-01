@@ -1,1 +1,3 @@
 In order to reproduce the calculations associated with the example in the publication "Generation of Reduced-Order Finite Element Models: A Numerical Implementation", you must run the "Substructure_coupling_Marco2p.m" matlab script.
+
+In order to reproduce the calculations associated with the example in the publication "Generation of Parametric Reduced-Order Finite Element Models: A Numerical Implementation", you must run the "Parametrization_Marco2p.m" matlab script.
